@@ -24,13 +24,6 @@ Detailed write-up, visuals and conclusions:
 - Comparison table of baseline vs scenarios  
 - Tableau visualizations (screenshots in `/images/`)
 
-## Folder Structure
-├── README.md
-├── data/
-│   ├── raw/               # original extracted CSVs
-│   └── processed/         # query results & scenario outputs
-├── sql/                   # all SQL queries
-├── images/                # screenshots of Tableau charts
 
 ## Technologies
 
